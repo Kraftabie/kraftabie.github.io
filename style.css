@@ -1,5 +1,5 @@
 @font-face {
-  font-family: Minecraftia;
+  font-family: "Minecraftia";
   src: url("/media/Minecraftia-Regular.ttf") format("ttf");
 }
 
@@ -11,5 +11,6 @@
 }
 
 .title {
-  font-family: Minecraftia;
+  font-family: "Minecraftia";
+  font-size: 35px;
 }
